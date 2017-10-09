@@ -1,0 +1,60 @@
+body{
+    background-color: #86d3f9;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height:25px
+}
+h1{
+    text-align: center;
+    color: #444444;
+    font-family: 'Fjalla One', sans-serif;
+    border-bottom: 4px solid #ffffff;
+    font-size: 30px;
+}
+h2{
+    clear: both;
+    color: #ffffff;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 24px;
+}
+h3{
+    color: #ffffff;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 24px;
+}
+
+p, li {
+  font-family: 'BenchNine', sans-serif;
+  font-size: 18px
+}
+img{
+max-width: 100%
+}
+img.half{
+max-width: 45%;
+}
+
+img.right{
+    float: right;
+    margin-left: 20px;
+}
+/* unvisited link */
+a:link {
+    color: #7f3339;
+}
+
+/* visited link */
+a:visited {
+    color: #25512f;
+}
+
+/* mouse over link */
+a:hover {
+    color: #2a23ed;
+}
+
+/* selected link */
+a:active {
+    color: #ffffff;
+}
